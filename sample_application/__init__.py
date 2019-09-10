@@ -15,7 +15,7 @@ class User(object):
 
 def create_app(configfile=None):
     app = Flask(__name__)
-    AdminLTE(app)
+    #AdminLTE(app)
 
     # This is a placeholder user object.  In the real-world, this would
     # probably get populated via ... something.
