@@ -8,12 +8,12 @@ def read(fname):
 
 
 setup(
-    name='Flask-AdminLTE',
+    name='Flask-CMDB',
     version='2.0.6',
-    url='http://github.com/jkinred/flask-adminlte',
+    url='http://github.com/crossany/flask-cmdb',
     license='BSD',
-    author='Jonathan Kinred',
-    author_email='jonathan.kinred@gmail.com',
+    author='JIN CHEN',
+    author_email='crossany@gmail.com',
     description='An extension that includes AdminLTE in your '
                 'project, without any boilerplate code.',
     long_description=read('README.rst'),
