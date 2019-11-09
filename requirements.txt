@@ -1,8 +1,9 @@
-click==6.6
-Flask==0.12
-itsdangerous==0.24
-Jinja2==2.8.1
-MarkupSafe==0.23
-python-dateutil==2.6.0
-six==1.10.0
-Werkzeug==0.11.15
+click==7.0
+Flask==1.1.1
+itsdangerous==1.1.0
+Jinja2==2.10.3
+MarkupSafe==1.1.1
+python-dateutil==2.8.1
+six==1.12.0
+Werkzeug==0.16.0
+uWSGI==2.0.18

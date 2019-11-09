@@ -9,7 +9,7 @@ def read(fname):
 
 setup(
     name='Flask-CMDB',
-    version='2.0.6',
+    version='1.0.0',
     url='http://github.com/crossany/flask-cmdb',
     license='BSD',
     author='JIN CHEN',
@@ -22,7 +22,7 @@ setup(
     include_package_data=True,
     platforms='any',
     install_requires=[
-        'Flask>=0.8',
+        'Flask>=1.1.1',
     ],
     classifiers=[
         'Environment :: Web Environment',
